@@ -1,0 +1,2 @@
+# planetitak
+Inbasioa dator
