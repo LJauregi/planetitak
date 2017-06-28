@@ -1,2 +1,2 @@
 # planetitak
-Inbasioa dator
+Inbasioa dator xup xup
